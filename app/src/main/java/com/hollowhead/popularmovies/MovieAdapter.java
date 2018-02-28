@@ -15,7 +15,7 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 
 /**
- * Created by jasonaholloway on 2/26/18.
+ * Created by jasonaholloway on 2/26/18..
  */
 
  public class MovieAdapter extends BaseAdapter {
